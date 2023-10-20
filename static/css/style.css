@@ -1,0 +1,7 @@
+.tabl td,
+.tabl tr,
+.tabl th{
+    border: 1px solid black;
+    width: 150px;
+    height: 20px;
+}
